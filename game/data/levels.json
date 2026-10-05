@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "levels": [
+    {
+      "id": "confluence_courtyard",
+      "name": "交汇庭院",
+      "theme": "forest",
+      "map": "maps/confluence_courtyard.json",
+      "waves": "waves/courtyard_normal.json",
+      "subtitle": "翡翠林地 · 交叉防线",
+      "description": "两条道路在林间交汇。用冰霜与火炮组成中央防线，守住双子水晶。",
+      "difficulty": "入门",
+      "position": [
+        105,
+        268
+      ],
+      "recommended_level": 1,
+      "event": {
+        "name": "双子试炼",
+        "kind": "relay",
+        "description": "双英雄同时守住两处信标3秒，获得共鸣；任一英雄离开会重置进度。",
+        "waves": [
+          3,
+          7
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      }
+    },
+    {
+      "id": "frost_pass",
+      "name": "霜脊隘口",
+      "theme": "snow",
+      "map": "maps/frost_pass.json",
+      "waves": "waves/frost_pass.json",
+      "subtitle": "凛冬山岭 · 装甲入侵",
+      "description": "冻土中的弯道拉开防线，重甲兵提前出现。穿透护甲并提前部署防空。",
+      "difficulty": "进阶",
+      "position": [
+        256,
+        268
+      ],
+      "recommended_level": 2,
+      "event": {
+        "name": "凛冬雪暴",
+        "kind": "snow",
+        "description": "蓝色雪暴区降低英雄移动与塔攻速；分头守住信标可提前结束。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      }
+    },
+    {
+      "id": "ember_ruins",
+      "name": "余烬遗迹",
+      "theme": "desert",
+      "map": "maps/ember_ruins.json",
+      "waves": "waves/ember_ruins.json",
+      "subtitle": "赤砂荒原 · 精英围城",
+      "description": "遗迹长廊让队伍集中，精英与飞行军团交替来袭。两个巨像将考验出口防线。",
+      "difficulty": "挑战",
+      "position": [
+        407,
+        268
+      ],
+      "recommended_level": 3,
+      "event": {
+        "name": "余烬喷涌",
+        "kind": "ember",
+        "description": "橙色危险区灼伤英雄与士兵；转移阵地或分头守住信标灭火。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      }
+    },
+    {
+      "id": "thornwood",
+      "name": "荆棘边境",
+      "theme": "forest",
+      "map": "maps/thornwood.json",
+      "waves": "waves/thornwood.json",
+      "subtitle": "侧翼防守 · 疾行突袭",
+      "description": "上下道路在短交汇区接力，刺客交替突袭。用集结点守住侧翼，别把全部金币投入中央。",
+      "difficulty": "进阶",
+      "recommended_level": 4,
+      "position": [
+        558,
+        268
+      ],
+      "event": {
+        "name": "荆棘封锁",
+        "kind": "thorn",
+        "description": "荆棘区持续伤害士兵，英雄移动减缓；调整集结点并协作清除。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      },
+      "mechanism": {
+        "kind": "junction",
+        "name": "荆棘道闸",
+        "description": "第3、6、9波切换新来敌军的岔路；英雄靠近道闸可花30金币再次换线。",
+        "position": [
+          16,
+          12
+        ]
+      }
+    },
+    {
+      "id": "skywatch",
+      "name": "风暴哨站",
+      "theme": "snow",
+      "map": "maps/skywatch.json",
+      "waves": "waves/skywatch.json",
+      "subtitle": "空袭警戒 · 双线防空",
+      "description": "空军绕开中央地面火力，从上下侧翼直扑出口。提前布置弓箭与冰霜塔，标记请求队友补上防空。",
+      "difficulty": "挑战",
+      "recommended_level": 5,
+      "position": [
+        709,
+        268
+      ],
+      "event": {
+        "name": "疾风空袭",
+        "kind": "wind",
+        "description": "飞行敌人暂时加速30%；侧翼防空并守住信标平息风暴。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      }
+    },
+    {
+      "id": "rift_citadel",
+      "name": "裂隙要塞",
+      "theme": "desert",
+      "map": "maps/rift_citadel.json",
+      "waves": "waves/rift_citadel.json",
+      "subtitle": "最终防线 · 连续巨像",
+      "description": "重甲与精英轮流压线，第八波起巨像连续进攻。保留共鸣，集火首领并避开蓄力冲击。",
+      "difficulty": "终章",
+      "recommended_level": 6,
+      "position": [
+        105,
+        438
+      ],
+      "event": {
+        "name": "裂隙增援",
+        "kind": "rift",
+        "description": "裂隙开启时两路各出现护盾卫士；分头守住信标可阻止后续增援。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      }
+    },
+    {
+      "id": "moonbrook",
+      "name": "月影渡口",
+      "theme": "forest",
+      "map": "maps/moonbrook.json",
+      "waves": "waves/moonbrook.json",
+      "subtitle": "双岸接力 · 潮汐突袭",
+      "description": "渡口长弯让敌军在双岸集结，祭医伴随护盾卫士。潮汐期间守住信标，避免快军冲破防线。",
+      "difficulty": "扩展挑战",
+      "recommended_level": 4,
+      "position": [
+        256,
+        438
+      ],
+      "event": {
+        "name": "月影潮汐",
+        "kind": "tide",
+        "description": "潮汐期间地面敌人加速25%；兵营拦截、英雄补位或分守信标平息潮汐。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      },
+      "mechanism": {
+        "kind": "escort",
+        "name": "月影运补车",
+        "description": "第4、8波护送补给车，英雄靠近才前进；敌人靠近会损伤车辆，成功奖励金币和共鸣。",
+        "position": [
+          16,
+          12
+        ]
+      }
+    },
+    {
+      "id": "sunken_temple",
+      "name": "沉沙神殿",
+      "theme": "desert",
+      "map": "maps/sunken_temple.json",
+      "waves": "waves/sunken_temple.json",
+      "subtitle": "装甲纵队 · 流沙战场",
+      "description": "两条道路在神殿前长距离交汇，护盾与治疗纵队掩护巨像。流沙降低移速和塔攻速，支援塔与集结点尤为重要。",
+      "difficulty": "扩展挑战",
+      "recommended_level": 5,
+      "position": [
+        407,
+        438
+      ],
+      "event": {
+        "name": "流沙漩涡",
+        "kind": "sand",
+        "description": "流沙区降低英雄和士兵移速、塔攻速；重新集结或分守信标可提前化解。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      }
+    },
+    {
+      "id": "glacier_keep",
+      "name": "寒晶堡垒",
+      "theme": "snow",
+      "map": "maps/glacier_keep.json",
+      "waves": "waves/glacier_keep.json",
+      "subtitle": "高空绕袭 · 晶盾共振",
+      "description": "空军沿外侧绕过堡垒；重甲在中央推进。晶盾共振会给附近敌人补充护盾，必须兼顾防空与地面爆发。 裂隙领主需要双方交替命中破印，并躲避定点震荡。",
+      "difficulty": "扩展挑战",
+      "recommended_level": 6,
+      "position": [
+        558,
+        438
+      ],
+      "event": {
+        "name": "晶盾共振",
+        "kind": "icefall",
+        "description": "冰晶区每6秒为敌人补充护盾；分守信标阻止补盾，并及时集中输出。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      },
+      "mechanism": {
+        "kind": "lock",
+        "name": "晶核塔基封锁",
+        "description": "第4、7、10波预警后封锁两座共享塔基12秒；英雄靠近晶核可花50金币提前解封。",
+        "position": [
+          16,
+          12
+        ]
+      }
+    },
+    {
+      "id": "eclipse_gate",
+      "name": "星陨之门",
+      "theme": "forest",
+      "map": "maps/eclipse_gate.json",
+      "waves": "waves/eclipse_gate.json",
+      "subtitle": "双线终战 · 星陨降临",
+      "description": "星门两路先交汇再分离，飞行、祭医与巨像交替压线。星陨区周期落下冲击，必须在阻挡和避险间切换。 裂隙领主需要双方交替命中破印，并躲避定点震荡。",
+      "difficulty": "星门终战",
+      "recommended_level": 7,
+      "position": [
+        709,
+        438
+      ],
+      "event": {
+        "name": "星陨冲击",
+        "kind": "eclipse",
+        "description": "预警后的星陨区每5秒伤害英雄与士兵；转移阵地或分守信标关闭星门。",
+        "waves": [
+          4,
+          8
+        ],
+        "delay": 8,
+        "warning": 6,
+        "duration": 18
+      }
+    }
+  ]
+}

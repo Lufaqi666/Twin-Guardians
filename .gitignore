@@ -1,0 +1,12 @@
+.godot/
+.work/
+.tools/
+builds/
+exports/
+*.tmp
+*.bak
+~$*.docx
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

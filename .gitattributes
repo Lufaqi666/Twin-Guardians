@@ -1,0 +1,10 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.gd text eol=lf
+*.tscn text eol=lf
+*.godot text eol=lf
+*.svg text eol=lf
+*.cmd text eol=crlf
+*.docx binary
+*.png binary

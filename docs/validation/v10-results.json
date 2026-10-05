@@ -1,0 +1,37 @@
+{
+  "version": "0.10",
+  "date": "2026-10-05",
+  "rule_checks": 1066,
+  "new_release_checks": 35,
+  "gpu_checks": 322,
+  "normal_economy_playthroughs_rerun": 0,
+  "historical_v09_economy_wins": 60,
+  "network": {
+    "localhost_auto_reconnect": true,
+    "delegated_skill_sync": true,
+    "reliable_final_rating": true,
+    "physical_two_pc": "unverified",
+    "real_packet_loss": "unverified",
+    "public_relay": "not implemented"
+  },
+  "export": {
+    "platform": "Windows x86_64",
+    "engine": "Godot 4.7.2",
+    "official_template_sha512_verified": true,
+    "editor_runtime": false,
+    "stages": 10,
+    "tower_types": 8,
+    "test_scripts_excluded": true,
+    "config_hash_matches_source": true,
+    "config_hash": "dd01945b8380ac54337da2ff0343e13cf086c1c2f985cd62d81d8f850709633e",
+    "audit_exit_code": 0,
+    "smoke_exit_code": 0
+  },
+  "remaining": [
+    "human playtesting and balance tuning",
+    "physical two-PC and cross-network tests",
+    "low-end GPU and clean Windows machine validation",
+    "twenty-session endurance test",
+    "store assets and publishing review"
+  ]
+}

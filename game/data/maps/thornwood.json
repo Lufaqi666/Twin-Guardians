@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "id": "thornwood",
+  "name": "荆棘边境",
+  "grid_size": [
+    32,
+    24
+  ],
+  "distance_metric": "euclidean_polyline",
+  "central_shared_length": 6,
+  "routes": {
+    "a_default": [
+      [
+        2,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        14,
+        10
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        24,
+        20
+      ],
+      [
+        30,
+        20
+      ]
+    ],
+    "b_default": [
+      [
+        2,
+        20
+      ],
+      [
+        8,
+        20
+      ],
+      [
+        14,
+        14
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        24,
+        4
+      ],
+      [
+        30,
+        4
+      ]
+    ],
+    "a_diverted": [
+      [
+        2,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        14,
+        10
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        24,
+        4
+      ],
+      [
+        30,
+        4
+      ]
+    ],
+    "b_diverted": [
+      [
+        2,
+        20
+      ],
+      [
+        8,
+        20
+      ],
+      [
+        14,
+        14
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        24,
+        20
+      ],
+      [
+        30,
+        20
+      ]
+    ],
+    "air_a": [
+      [
+        2,
+        4
+      ],
+      [
+        16,
+        12
+      ],
+      [
+        30,
+        20
+      ]
+    ],
+    "air_b": [
+      [
+        2,
+        20
+      ],
+      [
+        16,
+        12
+      ],
+      [
+        30,
+        4
+      ]
+    ]
+  },
+  "route_exits": {
+    "a_default": "exit_p2",
+    "b_default": "exit_p1",
+    "a_diverted": "exit_p1",
+    "b_diverted": "exit_p2",
+    "air_a": "exit_p2",
+    "air_b": "exit_p1"
+  },
+  "exits": {
+    "exit_p1": [
+      30,
+      4
+    ],
+    "exit_p2": [
+      30,
+      20
+    ]
+  },
+  "hero_spawns": {
+    "p1": [
+      28,
+      4
+    ],
+    "p2": [
+      28,
+      20
+    ]
+  },
+  "nodes": [
+    {
+      "id": "p1_01",
+      "owner": "p1",
+      "position": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "p1_02",
+      "owner": "p1",
+      "position": [
+        10,
+        4
+      ]
+    },
+    {
+      "id": "p1_03",
+      "owner": "p1",
+      "position": [
+        11,
+        9
+      ]
+    },
+    {
+      "id": "p1_04",
+      "owner": "p1",
+      "position": [
+        22,
+        10
+      ]
+    },
+    {
+      "id": "p1_05",
+      "owner": "p1",
+      "position": [
+        25,
+        6
+      ]
+    },
+    {
+      "id": "p1_06",
+      "owner": "p1",
+      "position": [
+        28,
+        6
+      ]
+    },
+    {
+      "id": "p2_01",
+      "owner": "p2",
+      "position": [
+        6,
+        18
+      ]
+    },
+    {
+      "id": "p2_02",
+      "owner": "p2",
+      "position": [
+        10,
+        20
+      ]
+    },
+    {
+      "id": "p2_03",
+      "owner": "p2",
+      "position": [
+        11,
+        15
+      ]
+    },
+    {
+      "id": "p2_04",
+      "owner": "p2",
+      "position": [
+        22,
+        14
+      ]
+    },
+    {
+      "id": "p2_05",
+      "owner": "p2",
+      "position": [
+        25,
+        18
+      ]
+    },
+    {
+      "id": "p2_06",
+      "owner": "p2",
+      "position": [
+        28,
+        18
+      ]
+    },
+    {
+      "id": "shared_01",
+      "owner": "shared",
+      "position": [
+        13,
+        11
+      ]
+    },
+    {
+      "id": "shared_02",
+      "owner": "shared",
+      "position": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "shared_03",
+      "owner": "shared",
+      "position": [
+        18,
+        10
+      ]
+    },
+    {
+      "id": "shared_04",
+      "owner": "shared",
+      "position": [
+        18,
+        14
+      ]
+    }
+  ],
+  "gates": [
+    {
+      "id": "gate_a",
+      "position": [
+        8,
+        4
+      ],
+      "from_route": "a_default",
+      "to_route": "a_diverted"
+    },
+    {
+      "id": "gate_b",
+      "position": [
+        8,
+        20
+      ],
+      "from_route": "b_default",
+      "to_route": "b_diverted"
+    }
+  ],
+  "fire_traps": [
+    {
+      "id": "fire_p1",
+      "position": [
+        25,
+        4
+      ]
+    },
+    {
+      "id": "fire_p2",
+      "position": [
+        25,
+        20
+      ]
+    }
+  ],
+  "theme": "forest"
+}

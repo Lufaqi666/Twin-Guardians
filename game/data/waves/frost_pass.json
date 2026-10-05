@@ -1,0 +1,1096 @@
+{
+  "schema_version": 1,
+  "map_id": "frost_pass",
+  "waves": [
+    {
+      "wave": 1,
+      "reward_per_player": 40,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 4.23
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 7.05
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 7.05
+        }
+      ]
+    },
+    {
+      "wave": 2,
+      "reward_per_player": 45,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 4.23
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 7.05
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 7.05
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 8.46
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 8.46
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 9.87
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 9.87
+        }
+      ]
+    },
+    {
+      "wave": 3,
+      "reward_per_player": 50,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "heavy",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 4.23
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 7.05
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 7.05
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 8.46
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 8.46
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 9.87
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 9.87
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 11.28
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 11.28
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 12.69
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 12.69
+        }
+      ]
+    },
+    {
+      "wave": 4,
+      "reward_per_player": 55,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 4.23
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 7.05
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 7.05
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 14.1
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 14.1
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 15.51
+        },
+        {
+          "entry": "b",
+          "enemy_id": "heavy",
+          "time": 15.51
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 16.92
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 16.92
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 18.33
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 18.33
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 19.74
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 19.74
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 21.15
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 21.15
+        }
+      ]
+    },
+    {
+      "wave": 5,
+      "reward_per_player": 60,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "elite",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 4.23
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 7.05
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 7.05
+        },
+        {
+          "entry": "a",
+          "enemy_id": "warden",
+          "time": 8.46
+        },
+        {
+          "entry": "b",
+          "enemy_id": "mender",
+          "time": 8.46
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 9.87
+        },
+        {
+          "entry": "b",
+          "enemy_id": "heavy",
+          "time": 9.87
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 11.28
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 11.28
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 12.69
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 12.69
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 14.1
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 14.1
+        },
+        {
+          "entry": "b",
+          "enemy_id": "infantry",
+          "time": 15.51
+        }
+      ]
+    },
+    {
+      "wave": 6,
+      "reward_per_player": 65,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 4.23
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 7.05
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 7.05
+        },
+        {
+          "entry": "a",
+          "enemy_id": "warden",
+          "time": 8.46
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 8.46
+        },
+        {
+          "entry": "a",
+          "enemy_id": "mender",
+          "time": 9.87
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 9.87
+        },
+        {
+          "entry": "a",
+          "enemy_id": "saboteur",
+          "time": 11.28
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 11.28
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 12.69
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 12.69
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 14.1
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 14.1
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 15.51
+        }
+      ]
+    },
+    {
+      "wave": 7,
+      "reward_per_player": 70,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 4.23
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 7.05
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 7.05
+        },
+        {
+          "entry": "a",
+          "enemy_id": "warden",
+          "time": 8.46
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 8.46
+        },
+        {
+          "entry": "a",
+          "enemy_id": "mender",
+          "time": 9.87
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 9.87
+        },
+        {
+          "entry": "a",
+          "enemy_id": "splitter",
+          "time": 11.28
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 11.28
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 12.69
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 12.69
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 14.1
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 14.1
+        },
+        {
+          "entry": "a",
+          "enemy_id": "infantry",
+          "time": 15.51
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 15.51
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 16.92
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 18.33
+        }
+      ]
+    },
+    {
+      "wave": 8,
+      "reward_per_player": 75,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "elite",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "elite",
+          "time": 1.13
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 1.13
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.26
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 2.26
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 3.38
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 3.38
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.51
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 4.51
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 6.77
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 6.77
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 7.9
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 7.9
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 9.02
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 10.15
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 11.28
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 12.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 13.54
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 14.66
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 15.79
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 16.92
+        }
+      ]
+    },
+    {
+      "wave": 9,
+      "reward_per_player": 80,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "elite",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "elite",
+          "time": 1.13
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 1.13
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.26
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 2.26
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 3.38
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 3.38
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.51
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 4.51
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 5.64
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 6.77
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 6.77
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 7.9
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 7.9
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 9.02
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 10.15
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 11.28
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 12.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 13.54
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 14.66
+        }
+      ]
+    },
+    {
+      "wave": 10,
+      "reward_per_player": 85,
+      "events": [
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 0.0
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 0.0
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 1.41
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 1.41
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 2.82
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 2.82
+        },
+        {
+          "entry": "a",
+          "enemy_id": "heavy",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 4.23
+        },
+        {
+          "entry": "b",
+          "enemy_id": "flyer",
+          "time": 5.64
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 7.05
+        },
+        {
+          "entry": "a",
+          "enemy_id": "boss",
+          "time": 7.52
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 8.46
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 9.87
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 11.28
+        },
+        {
+          "entry": "b",
+          "enemy_id": "assassin",
+          "time": 12.69
+        },
+        {
+          "entry": "b",
+          "enemy_id": "elite",
+          "time": 14.1
+        }
+      ]
+    }
+  ]
+}

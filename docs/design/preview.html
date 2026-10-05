@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>双子守护者布局与交互草图</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#0b1420;color:#e7edf4;font:15px/1.6 system-ui,"Microsoft YaHei",sans-serif}main{max-width:1100px;margin:auto;padding:26px}h1{font-size:26px}h2{font-size:19px;margin:26px 0 12px}p{color:#b7c9da}button{font:inherit;padding:8px 15px;border:1px solid #4b647c;background:#182c40;color:#e7edf4;border-radius:6px;cursor:pointer}button:focus-visible{outline:3px solid #e6ce82}button[aria-pressed=true]{background:#355771}button:disabled{opacity:.45;cursor:default}.hud{display:flex;gap:12px;flex-wrap:wrap;background:#142437;padding:12px 16px;border-radius:8px}.hud strong{color:#e6ce82}.board{display:grid;grid-template-columns:minmax(0,1fr) 250px;gap:16px;margin-top:16px}.map{min-width:0}.map img{width:100%;display:block}.panel{background:#142437;padding:16px;border-radius:8px}.panel button{width:100%;margin:4px 0;text-align:left}.toolbar{display:flex;gap:8px;flex-wrap:wrap}label{display:block;margin:9px 0}input{font:inherit;padding:8px;max-width:100%;background:#0e1c2a;color:#e7edf4;border:1px solid #4b647c;border-radius:4px}.lobby{display:grid;grid-template-columns:1fr 1fr;gap:16px}.hint{background:#273349;padding:10px 14px;border-left:3px solid #e6ce82;margin-top:15px;min-height:46px}.good{color:#a2daba}small{color:#b7c9da}#range{margin-bottom:8px}@media(max-width:720px){main{padding:16px}.board,.lobby{grid-template-columns:1fr}.panel button{width:auto;margin-right:8px}}
+</style>
+<main><h1>双子守护者 布局与交互草图</h1><p>首图采用两路接力与中央连锁。此页是设计草图，所有交互使用示例状态，不连接游戏或网络。</p>
+<h2>大厅</h2><section class="lobby"><div class="panel"><label>房间名称<input value="交汇庭院测试房" aria-label="房间名称"></label><button id="create">创建房间</button><p>P1 指挥官 · 未准备<br>P2 突进者 · 等待加入</p></div><div class="panel"><label>手动连接<input value="192.168.1.10:24820" aria-label="连接地址"></label><button id="join">连接示例</button><p>地图 交汇庭院 · 普通<br>版本不一致时禁止进入</p></div></section>
+<h2>战斗</h2><div class="hud"><span>共享水晶 <strong>20 / 20</strong></span><span>P1 <strong>300g</strong></span><span>P2 <strong>300g</strong></span><span>第 <strong>3 / 10</strong> 波</span><span>共鸣 <strong>65 / 100</strong></span></div>
+<div class="board"><div class="map"><img src="courtyard.svg" alt="两条地面路线在中央共用六格，然后分别到对方出口；十六个塔节点与四个机关已标注"></div><aside class="panel"><h3>shared_01 共享节点</h3><small>当前操作者 P1 · 等待建造</small><p id="range">选择塔型显示规格</p><button data-tower="archer">游侠弓箭塔 100g</button><button data-tower="frost">冰霜塔 120g</button><button data-tower="cannon">重型火炮塔 125g</button><button disabled>金币不足示例 350g</button><p>先选节点，再看射程与跨玩家配合提示。</p></aside></div>
+<div class="toolbar"><button id="gate">请求 A 闸门分流 50g</button><button id="agree" hidden>队友同意</button><button id="reject" hidden>队友拒绝</button><button id="disconnect">查看断线状态</button><button id="reset">恢复示例状态</button></div><div id="status" class="hint" role="status" aria-live="polite">下一波 A 重装4＋步兵6 · B 步兵6＋刺客4</div>
+<h2>首轮布局</h2><p>P1：p1_01 弓箭＋shared_01 冰霜；P2：p2_01 弓箭＋shared_02 火炮。入口火力保障基础防守，中央组合接力处理重装。完整坐标和推演见相邻设计文件。</p><p>HUD 中的金币与共鸣仅为布局示例。建造按钮演示选择提示，分流按钮演示双方确认反馈，不实际扣费。</p></main>
+<script>
+const status=document.getElementById('status');const agree=document.getElementById('agree');const reject=document.getElementById('reject');
+const specs={archer:'4.5 格 · 对地对空 · 18物理／0.6秒 · 标记',frost:'4 格 · 对地对空 · 16魔法／1.2秒 · 40%减速',cannon:'3.5 格 · 仅地面 · 40物理／2秒 · 跨玩家冰碎'};
+document.querySelectorAll('[data-tower]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-tower]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));document.getElementById('range').textContent=specs[b.dataset.tower];status.textContent='已选择 '+b.textContent+'；正式游戏须等待 Host 确认后建造。'});
+document.getElementById('gate').onclick=()=>{agree.hidden=reject.hidden=false;status.textContent='P1 请求 A 路分流至 P1 出口，费用50g；队友有3秒确认。此处为静态确认示例。'};
+agree.onclick=()=>{agree.hidden=reject.hidden=true;status.textContent='双方确认：正式游戏重新校验余额后扣费，尚未过点的地面敌人改道。'};
+reject.onclick=()=>{agree.hidden=reject.hidden=true;status.textContent='队友拒绝，分流取消，不扣金币。'};
+document.getElementById('disconnect').onclick=()=>{agree.hidden=reject.hidden=true;status.textContent='P2 连接中断 · 模拟暂停 · 最长等待60秒重连，禁止消费与施法。'};
+document.getElementById('reset').onclick=()=>{agree.hidden=reject.hidden=true;status.textContent='下一波 A 重装4＋步兵6 · B 步兵6＋刺客4';document.querySelectorAll('[data-tower]').forEach(x=>x.setAttribute('aria-pressed','false'));document.getElementById('range').textContent='选择塔型显示规格';};
+document.getElementById('create').onclick=()=>status.textContent='大厅示例：房间已显示，等待队友；实际创建连接尚未实现。';
+document.getElementById('join').onclick=()=>status.textContent='大厅示例：连接前校验协议与配置版本，成功后显示双方准备。';
+</script></html>

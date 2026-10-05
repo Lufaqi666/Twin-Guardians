@@ -1,0 +1,516 @@
+{
+  "version": "0.6",
+  "date": "2026-10-04",
+  "method": "production commands and economy, scripted strategy, not human playtest",
+  "checks": 672,
+  "passed": 672,
+  "normal_economy_runs": [
+    {
+      "level": "confluence_courtyard",
+      "phase": "won",
+      "hp": 20,
+      "combos": 22,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "phase": "won",
+      "hp": 20,
+      "combos": 19,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "phase": "won",
+      "hp": 20,
+      "combos": 24,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "frost_pass",
+      "phase": "won",
+      "hp": 20,
+      "combos": 26,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "frost_pass",
+      "phase": "won",
+      "hp": 20,
+      "combos": 24,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "frost_pass",
+      "phase": "won",
+      "hp": 20,
+      "combos": 32,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "ember_ruins",
+      "phase": "won",
+      "hp": 20,
+      "combos": 33,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "ember_ruins",
+      "phase": "won",
+      "hp": 20,
+      "combos": 28,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 2,
+      "events_solved": 0
+    },
+    {
+      "level": "ember_ruins",
+      "phase": "won",
+      "hp": 20,
+      "combos": 31,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 1,
+      "events_solved": 0
+    },
+    {
+      "level": "thornwood",
+      "phase": "won",
+      "hp": 20,
+      "combos": 33,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "thornwood",
+      "phase": "won",
+      "hp": 20,
+      "combos": 38,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "thornwood",
+      "phase": "won",
+      "hp": 20,
+      "combos": 43,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "skywatch",
+      "phase": "won",
+      "hp": 19,
+      "combos": 35,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "skywatch",
+      "phase": "won",
+      "hp": 19,
+      "combos": 30,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "skywatch",
+      "phase": "won",
+      "hp": 19,
+      "combos": 31,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "rift_citadel",
+      "phase": "won",
+      "hp": 20,
+      "combos": 47,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "rift_citadel",
+      "phase": "won",
+      "hp": 20,
+      "combos": 37,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "rift_citadel",
+      "phase": "won",
+      "hp": 20,
+      "combos": 55,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "moonbrook",
+      "phase": "won",
+      "hp": 20,
+      "combos": 41,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "moonbrook",
+      "phase": "won",
+      "hp": 20,
+      "combos": 42,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "moonbrook",
+      "phase": "won",
+      "hp": 20,
+      "combos": 56,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 1,
+      "events_solved": 0
+    },
+    {
+      "level": "sunken_temple",
+      "phase": "won",
+      "hp": 20,
+      "combos": 51,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "sunken_temple",
+      "phase": "won",
+      "hp": 20,
+      "combos": 48,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "sunken_temple",
+      "phase": "won",
+      "hp": 20,
+      "combos": 58,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "glacier_keep",
+      "phase": "won",
+      "hp": 12,
+      "combos": 37,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "glacier_keep",
+      "phase": "won",
+      "hp": 12,
+      "combos": 37,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "glacier_keep",
+      "phase": "won",
+      "hp": 12,
+      "combos": 38,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "eclipse_gate",
+      "phase": "won",
+      "hp": 20,
+      "combos": 69,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 1,
+      "events_solved": 0
+    },
+    {
+      "level": "eclipse_gate",
+      "phase": "won",
+      "hp": 20,
+      "combos": 75,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "eclipse_gate",
+      "phase": "won",
+      "hp": 20,
+      "combos": 71,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "phase": "won",
+      "hp": 20,
+      "combos": 11,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 11,
+      "events_solved": 2
+    },
+    {
+      "level": "frost_pass",
+      "phase": "won",
+      "hp": 20,
+      "combos": 7,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 7,
+      "events_solved": 2
+    },
+    {
+      "level": "ember_ruins",
+      "phase": "won",
+      "hp": 20,
+      "combos": 4,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 4,
+      "events_solved": 2
+    },
+    {
+      "level": "thornwood",
+      "phase": "won",
+      "hp": 20,
+      "combos": 16,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 16,
+      "events_solved": 2
+    },
+    {
+      "level": "skywatch",
+      "phase": "won",
+      "hp": 19,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "rift_citadel",
+      "phase": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "moonbrook",
+      "phase": "won",
+      "hp": 20,
+      "combos": 9,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 9,
+      "events_solved": 2
+    },
+    {
+      "level": "sunken_temple",
+      "phase": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "glacier_keep",
+      "phase": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "eclipse_gate",
+      "phase": "won",
+      "hp": 20,
+      "combos": 12,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 12,
+      "events_solved": 2
+    },
+    {
+      "level": "confluence_courtyard",
+      "phase": "won",
+      "hp": 20,
+      "combos": 26,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 26,
+      "events_solved": 2
+    },
+    {
+      "level": "frost_pass",
+      "phase": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "ember_ruins",
+      "phase": "won",
+      "hp": 20,
+      "combos": 5,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 5,
+      "events_solved": 2
+    },
+    {
+      "level": "thornwood",
+      "phase": "won",
+      "hp": 20,
+      "combos": 18,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 18,
+      "events_solved": 2
+    },
+    {
+      "level": "skywatch",
+      "phase": "won",
+      "hp": 19,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "rift_citadel",
+      "phase": "won",
+      "hp": 20,
+      "combos": 17,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 17,
+      "events_solved": 2
+    },
+    {
+      "level": "moonbrook",
+      "phase": "won",
+      "hp": 20,
+      "combos": 3,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 3,
+      "events_solved": 2
+    },
+    {
+      "level": "sunken_temple",
+      "phase": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "glacier_keep",
+      "phase": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "eclipse_gate",
+      "phase": "won",
+      "hp": 20,
+      "combos": 7,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 7,
+      "events_solved": 2
+    }
+  ],
+  "network": {
+    "growth": "passed",
+    "challenge": "passed",
+    "automatic_reconnect": "passed",
+    "physical_two_pc": "unverified",
+    "public_relay": "not implemented"
+  }
+}

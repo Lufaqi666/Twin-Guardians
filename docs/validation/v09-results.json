@@ -1,0 +1,1041 @@
+{
+  "version": "0.9",
+  "date": "2026-10-05",
+  "rule_checks": 1031,
+  "gpu_skill_menu_checks": 308,
+  "gpu_base_menu_checks": 54,
+  "normal_economy_wins": 60,
+  "minimum_remaining_hp": 7,
+  "network": {
+    "growth": true,
+    "challenge": true,
+    "reconnect": true,
+    "delegated_skill_rpc": true,
+    "reliable_rating": true
+  },
+  "method": "Scripted production commands with normal economy; not human balance testing. Unaffected checks retained; ten skill formations rerun after fixing bot skill investment timing. Final UI and GPU checks rerun.",
+  "playthroughs": [
+    {
+      "level": "confluence_courtyard",
+      "result": "won",
+      "hp": 20,
+      "combos": 24,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "result": "won",
+      "hp": 20,
+      "combos": 19,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "result": "won",
+      "hp": 20,
+      "combos": 28,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "frost_pass",
+      "result": "won",
+      "hp": 20,
+      "combos": 28,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "frost_pass",
+      "result": "won",
+      "hp": 20,
+      "combos": 27,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "frost_pass",
+      "result": "won",
+      "hp": 20,
+      "combos": 30,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "ember_ruins",
+      "result": "won",
+      "hp": 20,
+      "combos": 33,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "ember_ruins",
+      "result": "won",
+      "hp": 20,
+      "combos": 25,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "ember_ruins",
+      "result": "won",
+      "hp": 20,
+      "combos": 32,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 1,
+      "events_solved": 0
+    },
+    {
+      "level": "thornwood",
+      "result": "won",
+      "hp": 20,
+      "combos": 36,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "thornwood",
+      "result": "won",
+      "hp": 18,
+      "combos": 43,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "thornwood",
+      "result": "won",
+      "hp": 20,
+      "combos": 38,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 1,
+      "events_solved": 0
+    },
+    {
+      "level": "skywatch",
+      "result": "won",
+      "hp": 19,
+      "combos": 30,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "skywatch",
+      "result": "won",
+      "hp": 19,
+      "combos": 24,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "skywatch",
+      "result": "won",
+      "hp": 19,
+      "combos": 23,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "rift_citadel",
+      "result": "won",
+      "hp": 20,
+      "combos": 62,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 2,
+      "events_solved": 0
+    },
+    {
+      "level": "rift_citadel",
+      "result": "won",
+      "hp": 20,
+      "combos": 53,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "rift_citadel",
+      "result": "won",
+      "hp": 20,
+      "combos": 57,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 2,
+      "events_solved": 0
+    },
+    {
+      "level": "moonbrook",
+      "result": "won",
+      "hp": 20,
+      "combos": 47,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "moonbrook",
+      "result": "won",
+      "hp": 20,
+      "combos": 42,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "moonbrook",
+      "result": "won",
+      "hp": 20,
+      "combos": 44,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "sunken_temple",
+      "result": "won",
+      "hp": 20,
+      "combos": 46,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "sunken_temple",
+      "result": "won",
+      "hp": 20,
+      "combos": 38,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 1,
+      "events_solved": 0
+    },
+    {
+      "level": "sunken_temple",
+      "result": "won",
+      "hp": 20,
+      "combos": 55,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "glacier_keep",
+      "result": "won",
+      "hp": 7,
+      "combos": 35,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "glacier_keep",
+      "result": "won",
+      "hp": 7,
+      "combos": 35,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "glacier_keep",
+      "result": "won",
+      "hp": 7,
+      "combos": 34,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "eclipse_gate",
+      "result": "won",
+      "hp": 20,
+      "combos": 69,
+      "mode": "fresh",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "eclipse_gate",
+      "result": "won",
+      "hp": 20,
+      "combos": 67,
+      "mode": "max",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "eclipse_gate",
+      "result": "won",
+      "hp": 20,
+      "combos": 70,
+      "mode": "challenge",
+      "formation": "classic",
+      "active_relays": 0,
+      "events_solved": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "result": "won",
+      "hp": 20,
+      "combos": 17,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 17,
+      "events_solved": 2
+    },
+    {
+      "level": "frost_pass",
+      "result": "won",
+      "hp": 20,
+      "combos": 19,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 19,
+      "events_solved": 2
+    },
+    {
+      "level": "ember_ruins",
+      "result": "won",
+      "hp": 20,
+      "combos": 9,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 9,
+      "events_solved": 2
+    },
+    {
+      "level": "thornwood",
+      "result": "won",
+      "hp": 20,
+      "combos": 7,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 7,
+      "events_solved": 2
+    },
+    {
+      "level": "skywatch",
+      "result": "won",
+      "hp": 19,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "rift_citadel",
+      "result": "won",
+      "hp": 20,
+      "combos": 8,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 8,
+      "events_solved": 2
+    },
+    {
+      "level": "moonbrook",
+      "result": "won",
+      "hp": 20,
+      "combos": 15,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 15,
+      "events_solved": 2
+    },
+    {
+      "level": "sunken_temple",
+      "result": "won",
+      "hp": 20,
+      "combos": 9,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 9,
+      "events_solved": 2
+    },
+    {
+      "level": "glacier_keep",
+      "result": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "eclipse_gate",
+      "result": "won",
+      "hp": 20,
+      "combos": 11,
+      "mode": "challenge",
+      "formation": "ranged",
+      "active_relays": 11,
+      "events_solved": 2
+    },
+    {
+      "level": "confluence_courtyard",
+      "result": "won",
+      "hp": 20,
+      "combos": 19,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 19,
+      "events_solved": 2
+    },
+    {
+      "level": "frost_pass",
+      "result": "won",
+      "hp": 20,
+      "combos": 3,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 3,
+      "events_solved": 2
+    },
+    {
+      "level": "ember_ruins",
+      "result": "won",
+      "hp": 20,
+      "combos": 8,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 8,
+      "events_solved": 2
+    },
+    {
+      "level": "thornwood",
+      "result": "won",
+      "hp": 20,
+      "combos": 11,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 11,
+      "events_solved": 2
+    },
+    {
+      "level": "skywatch",
+      "result": "won",
+      "hp": 19,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "rift_citadel",
+      "result": "won",
+      "hp": 20,
+      "combos": 7,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 7,
+      "events_solved": 2
+    },
+    {
+      "level": "moonbrook",
+      "result": "won",
+      "hp": 20,
+      "combos": 7,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 7,
+      "events_solved": 2
+    },
+    {
+      "level": "sunken_temple",
+      "result": "won",
+      "hp": 20,
+      "combos": 2,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 2,
+      "events_solved": 2
+    },
+    {
+      "level": "glacier_keep",
+      "result": "won",
+      "hp": 13,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "eclipse_gate",
+      "result": "won",
+      "hp": 20,
+      "combos": 1,
+      "mode": "challenge",
+      "formation": "arcane",
+      "active_relays": 1,
+      "events_solved": 2
+    },
+    {
+      "level": "confluence_courtyard",
+      "result": "won",
+      "hp": 20,
+      "combos": 24,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 24,
+      "events_solved": 2
+    },
+    {
+      "level": "frost_pass",
+      "result": "won",
+      "hp": 20,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "ember_ruins",
+      "result": "won",
+      "hp": 20,
+      "combos": 4,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 4,
+      "events_solved": 2
+    },
+    {
+      "level": "thornwood",
+      "result": "won",
+      "hp": 20,
+      "combos": 15,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 15,
+      "events_solved": 2
+    },
+    {
+      "level": "skywatch",
+      "result": "won",
+      "hp": 19,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 0,
+      "events_solved": 2
+    },
+    {
+      "level": "rift_citadel",
+      "result": "won",
+      "hp": 15,
+      "combos": 8,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 8,
+      "events_solved": 2
+    },
+    {
+      "level": "moonbrook",
+      "result": "won",
+      "hp": 20,
+      "combos": 11,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 11,
+      "events_solved": 2
+    },
+    {
+      "level": "sunken_temple",
+      "result": "won",
+      "hp": 20,
+      "combos": 14,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 14,
+      "events_solved": 2
+    },
+    {
+      "level": "glacier_keep",
+      "result": "won",
+      "hp": 15,
+      "combos": 0,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 0,
+      "events_solved": 1
+    },
+    {
+      "level": "eclipse_gate",
+      "result": "won",
+      "hp": 9,
+      "combos": 1,
+      "mode": "challenge",
+      "formation": "skills",
+      "active_relays": 1,
+      "events_solved": 2
+    }
+  ],
+  "advanced_play": [
+    {
+      "level": "confluence_courtyard",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "confluence_courtyard",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "frost_pass",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "frost_pass",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "frost_pass",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "ember_ruins",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "ember_ruins",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "ember_ruins",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "thornwood",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "thornwood",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "thornwood",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "skywatch",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "skywatch",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "skywatch",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "rift_citadel",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "rift_citadel",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "rift_citadel",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "moonbrook",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "moonbrook",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "moonbrook",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "sunken_temple",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "sunken_temple",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "sunken_temple",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "glacier_keep",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 1
+    },
+    {
+      "level": "glacier_keep",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 1
+    },
+    {
+      "level": "glacier_keep",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 1
+    },
+    {
+      "level": "eclipse_gate",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 3
+    },
+    {
+      "level": "eclipse_gate",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 3
+    },
+    {
+      "level": "eclipse_gate",
+      "formation": "classic",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 5
+    },
+    {
+      "level": "confluence_courtyard",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "frost_pass",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "ember_ruins",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "thornwood",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "skywatch",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "rift_citadel",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "moonbrook",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 2,
+      "seal_breaks": 0
+    },
+    {
+      "level": "sunken_temple",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "glacier_keep",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 2
+    },
+    {
+      "level": "eclipse_gate",
+      "formation": "ranged",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 3
+    },
+    {
+      "level": "confluence_courtyard",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "frost_pass",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "ember_ruins",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "thornwood",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "skywatch",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "rift_citadel",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "moonbrook",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 2,
+      "seal_breaks": 0
+    },
+    {
+      "level": "sunken_temple",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "glacier_keep",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 2
+    },
+    {
+      "level": "eclipse_gate",
+      "formation": "arcane",
+      "skills": 0,
+      "escorts": 0,
+      "seal_breaks": 5
+    },
+    {
+      "level": "confluence_courtyard",
+      "formation": "skills",
+      "skills": 25,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "frost_pass",
+      "formation": "skills",
+      "skills": 16,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "ember_ruins",
+      "formation": "skills",
+      "skills": 22,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "thornwood",
+      "formation": "skills",
+      "skills": 30,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "skywatch",
+      "formation": "skills",
+      "skills": 9,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "rift_citadel",
+      "formation": "skills",
+      "skills": 27,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "moonbrook",
+      "formation": "skills",
+      "skills": 26,
+      "escorts": 2,
+      "seal_breaks": 0
+    },
+    {
+      "level": "sunken_temple",
+      "formation": "skills",
+      "skills": 29,
+      "escorts": 0,
+      "seal_breaks": 0
+    },
+    {
+      "level": "glacier_keep",
+      "formation": "skills",
+      "skills": 19,
+      "escorts": 0,
+      "seal_breaks": 2
+    },
+    {
+      "level": "eclipse_gate",
+      "formation": "skills",
+      "skills": 33,
+      "escorts": 0,
+      "seal_breaks": 4
+    }
+  ]
+}

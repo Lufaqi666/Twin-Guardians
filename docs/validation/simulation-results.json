@@ -1,0 +1,3150 @@
+{
+  "中央协作": {
+    "placement": [
+      [
+        "p1",
+        "p1_01",
+        "archer"
+      ],
+      [
+        "p2",
+        "p2_01",
+        "archer"
+      ],
+      [
+        "p1",
+        "shared_01",
+        "frost"
+      ],
+      [
+        "p2",
+        "shared_02",
+        "cannon"
+      ]
+    ],
+    "upgrade_before_wave3": false,
+    "runs": [
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 17,
+          "leaks": 3,
+          "leak_hp": 6,
+          "shatters": 7,
+          "synergies": 14,
+          "clear_seconds": 62.4,
+          "crystal_hp": 14,
+          "gold_p1": 339.5,
+          "gold_p2": 334.5
+        }
+      ]
+    ]
+  },
+  "中央协作＋升级": {
+    "placement": [
+      [
+        "p1",
+        "p1_01",
+        "archer"
+      ],
+      [
+        "p2",
+        "p2_01",
+        "archer"
+      ],
+      [
+        "p1",
+        "shared_01",
+        "frost"
+      ],
+      [
+        "p2",
+        "shared_02",
+        "cannon"
+      ]
+    ],
+    "upgrade_before_wave3": true,
+    "runs": [
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 1,
+          "synergies": 3,
+          "clear_seconds": 21.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 16,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 3,
+          "synergies": 10,
+          "clear_seconds": 23.6,
+          "crystal_hp": 20,
+          "gold_p1": 232.75,
+          "gold_p2": 227.75
+        },
+        {
+          "wave": 3,
+          "kills": 20,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 6,
+          "synergies": 16,
+          "clear_seconds": 32.3,
+          "crystal_hp": 20,
+          "gold_p1": 264.75,
+          "gold_p2": 255.75
+        }
+      ]
+    ]
+  },
+  "连锁关闭对照": {
+    "placement": [
+      [
+        "p1",
+        "p1_01",
+        "archer"
+      ],
+      [
+        "p2",
+        "p2_01",
+        "archer"
+      ],
+      [
+        "p1",
+        "shared_01",
+        "frost"
+      ],
+      [
+        "p2",
+        "shared_02",
+        "cannon"
+      ]
+    ],
+    "upgrade_before_wave3": false,
+    "runs": [
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 3,
+          "clear_seconds": 23.8,
+          "crystal_hp": 20,
+          "gold_p1": 143.75,
+          "gold_p2": 138.75
+        },
+        {
+          "wave": 2,
+          "kills": 15,
+          "leaks": 1,
+          "leak_hp": 1,
+          "shatters": 0,
+          "synergies": 7,
+          "clear_seconds": 48.55,
+          "crystal_hp": 19,
+          "gold_p1": 226.5,
+          "gold_p2": 221.5
+        },
+        {
+          "wave": 3,
+          "kills": 8,
+          "leaks": 12,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 4,
+          "clear_seconds": 62.4,
+          "crystal_hp": 4,
+          "gold_p1": 297.5,
+          "gold_p2": 292.5
+        }
+      ]
+    ]
+  },
+  "分散防线": {
+    "placement": [
+      [
+        "p1",
+        "p1_01",
+        "archer"
+      ],
+      [
+        "p2",
+        "p2_01",
+        "archer"
+      ],
+      [
+        "p1",
+        "p1_05",
+        "frost"
+      ],
+      [
+        "p2",
+        "p2_05",
+        "cannon"
+      ]
+    ],
+    "upgrade_before_wave3": false,
+    "runs": [
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ],
+      [
+        {
+          "wave": 1,
+          "kills": 12,
+          "leaks": 0,
+          "leak_hp": 0,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 43.85,
+          "crystal_hp": 20,
+          "gold_p1": 140.0,
+          "gold_p2": 135.0
+        },
+        {
+          "wave": 2,
+          "kills": 10,
+          "leaks": 6,
+          "leak_hp": 6,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 47.35,
+          "crystal_hp": 14,
+          "gold_p1": 200.0,
+          "gold_p2": 195.0
+        },
+        {
+          "wave": 3,
+          "kills": 5,
+          "leaks": 13,
+          "leak_hp": 15,
+          "shatters": 0,
+          "synergies": 0,
+          "clear_seconds": 58.2,
+          "crystal_hp": 0,
+          "gold_p1": 212.5,
+          "gold_p2": 207.5
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "schema_version": 1,
+  "base_towers": [
+    "archer",
+    "barracks",
+    "frost",
+    "cannon"
+  ],
+  "upgrade_routes": {
+    "archer": [
+      "archer",
+      "ballista"
+    ],
+    "barracks": [
+      "barracks",
+      "beacon"
+    ],
+    "frost": [
+      "frost",
+      "storm"
+    ],
+    "cannon": [
+      "cannon",
+      "alchemy"
+    ]
+  },
+  "damage_multiplier_by_level": [
+    1,
+    1.5,
+    2
+  ],
+  "upgrade_cost_ratio": [
+    0.8,
+    1.2
+  ],
+  "sell_ratio": 0.7,
+  "upgrade_seconds": 2,
+  "towers": [
+    {
+      "id": "archer",
+      "name": "游侠弓箭塔",
+      "cost": 100,
+      "range": 4.5,
+      "interval": 0.6,
+      "damage": 18,
+      "damage_type": "physical",
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "mark_chance": 0.15,
+      "mark_duration": 5,
+      "description": "快速物理攻击，可对空；标记目标帮助队友暴击。",
+      "branches": [
+        {
+          "id": "rapid",
+          "name": "疾风连射",
+          "description": "攻速提高35%，射程缩短15%。",
+          "modifiers": {
+            "interval": 0.65,
+            "range": 0.85
+          }
+        },
+        {
+          "id": "hunter",
+          "name": "猎空哨兵",
+          "description": "对空伤害提高70%，地面伤害降低15%。",
+          "modifiers": {
+            "air_damage": 1.7,
+            "ground_damage": 0.85
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "volley",
+          "name": "箭雨齐射",
+          "description": "向塔射程内最近敌群齐射，最多命中5个目标。",
+          "cooldown": 16,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "snare",
+          "name": "缚足箭",
+          "description": "范围敌人减速65%，持续4秒。",
+          "cooldown": 18,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    },
+    {
+      "id": "barracks",
+      "name": "圣骑士兵营",
+      "cost": 110,
+      "rally_range": 3,
+      "soldier_count": 3,
+      "soldier_hp": 80,
+      "soldier_damage": 8,
+      "soldier_interval": 1,
+      "respawn_seconds": 10,
+      "targets": [
+        "ground"
+      ],
+      "description": "三个士兵阻挡地面敌人；可调整五格内道路集结点。",
+      "branches": [
+        {
+          "id": "guard",
+          "name": "坚守盾卫",
+          "description": "士兵最大生命提高60%，伤害降低20%。",
+          "modifiers": {
+            "soldier_hp": 1.6,
+            "damage": 0.8
+          }
+        },
+        {
+          "id": "mobile",
+          "name": "机动卫队",
+          "description": "移动速度提高50%，伤害提高35%，最大生命降低15%。",
+          "modifiers": {
+            "move": 1.5,
+            "damage": 1.35,
+            "soldier_hp": 0.85
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "wall",
+          "name": "圣盾壁垒",
+          "description": "集结点附近英雄与士兵获得5秒减伤。",
+          "cooldown": 20,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "charge",
+          "name": "战团冲锋",
+          "description": "冲击集结点周围敌人，士兵立即恢复攻击。",
+          "cooldown": 16,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    },
+    {
+      "id": "frost",
+      "name": "冰霜塔",
+      "cost": 120,
+      "range": 4,
+      "interval": 1.2,
+      "damage": 16,
+      "damage_type": "magic",
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "frost_slow": 0.4,
+      "frost_duration": 3,
+      "description": "魔法攻击与减速；由队友火炮触发真实伤害碎冰。",
+      "branches": [
+        {
+          "id": "glacier",
+          "name": "广域寒潮",
+          "description": "射程提高25%，减速持续增加2秒，伤害降低20%。",
+          "modifiers": {
+            "range": 1.25,
+            "frost_duration": 5,
+            "damage": 0.8
+          }
+        },
+        {
+          "id": "deep",
+          "name": "深寒印记",
+          "description": "伤害提高40%，深寒使碎冰伤害提高25%，攻速降低20%。",
+          "modifiers": {
+            "damage": 1.4,
+            "interval": 1.2,
+            "deep": true
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "freeze",
+          "name": "绝对零度",
+          "description": "冻结塔射程内敌群2秒，Boss冻结缩短。",
+          "cooldown": 20,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "blizzard",
+          "name": "冰晶风暴",
+          "description": "生成持续5秒的冰火力场。",
+          "cooldown": 18,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    },
+    {
+      "id": "cannon",
+      "name": "重型火炮塔",
+      "cost": 125,
+      "range": 3.5,
+      "interval": 2,
+      "damage": 40,
+      "damage_type": "physical",
+      "targets": [
+        "ground"
+      ],
+      "splash_radius": 1.2,
+      "description": "地面范围物理伤害；碎冰与油污点燃提供元素接力。",
+      "branches": [
+        {
+          "id": "siege",
+          "name": "破甲重炮",
+          "description": "攻击忽略30%物理抗性，爆炸范围缩小25%。",
+          "modifiers": {
+            "pierce": 0.3,
+            "splash": 0.9
+          }
+        },
+        {
+          "id": "shatter",
+          "name": "碎冰轰击",
+          "description": "碎冰伤害提高35%，普通炮击伤害降低20%。",
+          "modifiers": {
+            "shatter": 1.35,
+            "damage": 0.8
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "barrage",
+          "name": "饱和轰炸",
+          "description": "轰炸最近敌群，造成大范围物理伤害。",
+          "cooldown": 18,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "breach",
+          "name": "破甲弹",
+          "description": "伤害并削减范围敌人物理抗性6秒。",
+          "cooldown": 20,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    },
+    {
+      "id": "alchemy",
+      "name": "炼金塔",
+      "cost": 115,
+      "range": 3.5,
+      "interval": 2,
+      "damage": 0,
+      "damage_type": "none",
+      "targets": [
+        "ground"
+      ],
+      "oil_radius": 1.5,
+      "oil_duration_by_level": [
+        4,
+        5,
+        6
+      ],
+      "oil_slow": 0.3,
+      "fire_dps_by_level": [
+        40,
+        50,
+        60
+      ],
+      "description": "投放减速油区；队友点燃造成完整伤害，自行点燃为一半。",
+      "branches": [
+        {
+          "id": "sticky",
+          "name": "黏稠油沼",
+          "description": "油区半径提高40%，减速提高至45%，点燃伤害降低20%。",
+          "modifiers": {
+            "oil_radius": 2.1,
+            "oil_slow": 0.45,
+            "fire": 0.8
+          }
+        },
+        {
+          "id": "volatile",
+          "name": "烈性燃剂",
+          "description": "点燃伤害提高50%，油区持续缩短2秒。",
+          "modifiers": {
+            "fire": 1.5,
+            "oil_duration": -2
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "ignite",
+          "name": "炼金爆燃",
+          "description": "在敌群脚下生成持续5秒的燃烧区域。",
+          "cooldown": 18,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "mire",
+          "name": "腐蚀泥潭",
+          "description": "大范围油沼持续7秒，减速并造成魔法伤害。",
+          "cooldown": 20,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    },
+    {
+      "id": "ballista",
+      "name": "鹰眼弩炮塔",
+      "cost": 150,
+      "range": 6,
+      "interval": 2.1,
+      "damage": 62,
+      "damage_type": "physical",
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "pierce": 0.35,
+      "description": "远距狙击，忽略35%物理抗性；适合侧翼防空与重甲。",
+      "branches": [
+        {
+          "id": "sniper",
+          "name": "远距狙击",
+          "description": "射程提高25%，伤害提高25%，攻速降低30%。",
+          "modifiers": {
+            "range": 1.25,
+            "damage": 1.25,
+            "interval": 1.3
+          }
+        },
+        {
+          "id": "piercer",
+          "name": "贯甲重弩",
+          "description": "忽略65%物理抗性，伤害降低15%。",
+          "modifiers": {
+            "pierce": 0.65,
+            "damage": 0.85
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "line",
+          "name": "贯穿弩箭",
+          "description": "沿最近敌人方向贯穿一条直线，造成真实伤害。",
+          "cooldown": 16,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "execute",
+          "name": "处决重弩",
+          "description": "对最近目标造成随其已损生命提高的伤害。",
+          "cooldown": 22,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    },
+    {
+      "id": "storm",
+      "name": "连锁雷塔",
+      "cost": 145,
+      "range": 3.3,
+      "interval": 1.7,
+      "damage": 27,
+      "damage_type": "magic",
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "jumps": 3,
+      "description": "闪电弹射最多3个敌人，每次衰减25%；擅长混合群体。",
+      "branches": [
+        {
+          "id": "chain",
+          "name": "电弧扩散",
+          "description": "弹射增加至5个目标，首击伤害降低15%。",
+          "modifiers": {
+            "jumps": 5,
+            "damage": 0.85
+          }
+        },
+        {
+          "id": "overload",
+          "name": "过载雷击",
+          "description": "伤害提高65%，只弹射2个目标。",
+          "modifiers": {
+            "jumps": 2,
+            "damage": 1.65
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "surge",
+          "name": "雷霆超载",
+          "description": "电击最近敌群，最多命中6个目标。",
+          "cooldown": 18,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "rod",
+          "name": "净化雷柱",
+          "description": "清除附近塔干扰，并震晕塔周围敌人。",
+          "cooldown": 20,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    },
+    {
+      "id": "beacon",
+      "name": "守护灯塔",
+      "cost": 130,
+      "range": 3.5,
+      "interval": 1,
+      "damage": 0,
+      "damage_type": "none",
+      "targets": [
+        "ground"
+      ],
+      "description": "范围内英雄与士兵每秒回复8/12/16生命；队友攻击塔伤害提高15%，增益不叠加。",
+      "branches": [
+        {
+          "id": "sanctuary",
+          "name": "庇护之光",
+          "description": "治疗提高75%，增益范围缩小20%。",
+          "modifiers": {
+            "heal": 1.75,
+            "range": 0.8
+          }
+        },
+        {
+          "id": "banner",
+          "name": "接力战旗",
+          "description": "队友塔伤害增益提高至30%，治疗减半。",
+          "modifiers": {
+            "aura": 1.3,
+            "heal": 0.5
+          }
+        }
+      ],
+      "skills": [
+        {
+          "id": "heal",
+          "name": "群体圣疗",
+          "description": "恢复附近英雄和士兵生命。",
+          "cooldown": 16,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        },
+        {
+          "id": "banner",
+          "name": "协同战旗",
+          "description": "附近队友攻击塔获得5秒伤害增益。",
+          "cooldown": 20,
+          "costs": [
+            70,
+            100
+          ],
+          "max_rank": 2
+        }
+      ]
+    }
+  ]
+}

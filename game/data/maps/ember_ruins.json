@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "id": "ember_ruins",
+  "name": "余烬遗迹",
+  "grid_size": [
+    32,
+    24
+  ],
+  "distance_metric": "euclidean_polyline",
+  "central_shared_length": 9,
+  "routes": {
+    "a_default": [
+      [
+        2,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        20,
+        13
+      ],
+      [
+        25,
+        18
+      ],
+      [
+        30,
+        18
+      ]
+    ],
+    "b_default": [
+      [
+        2,
+        18
+      ],
+      [
+        8,
+        18
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        20,
+        13
+      ],
+      [
+        25,
+        6
+      ],
+      [
+        30,
+        6
+      ]
+    ],
+    "a_diverted": [
+      [
+        2,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        20,
+        13
+      ],
+      [
+        25,
+        6
+      ],
+      [
+        30,
+        6
+      ]
+    ],
+    "b_diverted": [
+      [
+        2,
+        18
+      ],
+      [
+        8,
+        18
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        20,
+        13
+      ],
+      [
+        25,
+        18
+      ],
+      [
+        30,
+        18
+      ]
+    ],
+    "air_a": [
+      [
+        2,
+        6
+      ],
+      [
+        16,
+        12
+      ],
+      [
+        30,
+        18
+      ]
+    ],
+    "air_b": [
+      [
+        2,
+        18
+      ],
+      [
+        16,
+        12
+      ],
+      [
+        30,
+        6
+      ]
+    ]
+  },
+  "route_exits": {
+    "a_default": "exit_p2",
+    "b_default": "exit_p1",
+    "a_diverted": "exit_p1",
+    "b_diverted": "exit_p2",
+    "air_a": "exit_p2",
+    "air_b": "exit_p1"
+  },
+  "exits": {
+    "exit_p1": [
+      30,
+      6
+    ],
+    "exit_p2": [
+      30,
+      18
+    ]
+  },
+  "hero_spawns": {
+    "p1": [
+      16,
+      11
+    ],
+    "p2": [
+      17,
+      15
+    ]
+  },
+  "nodes": [
+    {
+      "id": "p1_01",
+      "owner": "p1",
+      "position": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": "p1_02",
+      "owner": "p1",
+      "position": [
+        10,
+        7
+      ]
+    },
+    {
+      "id": "p1_03",
+      "owner": "p1",
+      "position": [
+        11,
+        10
+      ]
+    },
+    {
+      "id": "p1_04",
+      "owner": "p1",
+      "position": [
+        23,
+        12
+      ]
+    },
+    {
+      "id": "p1_05",
+      "owner": "p1",
+      "position": [
+        25,
+        9
+      ]
+    },
+    {
+      "id": "p1_06",
+      "owner": "p1",
+      "position": [
+        28,
+        8
+      ]
+    },
+    {
+      "id": "p2_01",
+      "owner": "p2",
+      "position": [
+        6,
+        16
+      ]
+    },
+    {
+      "id": "p2_02",
+      "owner": "p2",
+      "position": [
+        10,
+        18
+      ]
+    },
+    {
+      "id": "p2_03",
+      "owner": "p2",
+      "position": [
+        11,
+        16
+      ]
+    },
+    {
+      "id": "p2_04",
+      "owner": "p2",
+      "position": [
+        22,
+        17
+      ]
+    },
+    {
+      "id": "p2_05",
+      "owner": "p2",
+      "position": [
+        25,
+        16
+      ]
+    },
+    {
+      "id": "p2_06",
+      "owner": "p2",
+      "position": [
+        28,
+        16
+      ]
+    },
+    {
+      "id": "shared_01",
+      "owner": "shared",
+      "position": [
+        14,
+        11
+      ]
+    },
+    {
+      "id": "shared_02",
+      "owner": "shared",
+      "position": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "shared_03",
+      "owner": "shared",
+      "position": [
+        19,
+        11
+      ]
+    },
+    {
+      "id": "shared_04",
+      "owner": "shared",
+      "position": [
+        19,
+        15
+      ]
+    }
+  ],
+  "gates": [
+    {
+      "id": "gate_a",
+      "position": [
+        8,
+        6
+      ],
+      "from_route": "a_default",
+      "to_route": "a_diverted"
+    },
+    {
+      "id": "gate_b",
+      "position": [
+        8,
+        18
+      ],
+      "from_route": "b_default",
+      "to_route": "b_diverted"
+    }
+  ],
+  "fire_traps": [
+    {
+      "id": "fire_p1",
+      "position": [
+        26,
+        6
+      ]
+    },
+    {
+      "id": "fire_p2",
+      "position": [
+        26,
+        18
+      ]
+    }
+  ],
+  "theme": "desert",
+  "entries": {
+    "a": [
+      2,
+      6
+    ],
+    "b": [
+      2,
+      18
+    ]
+  }
+}

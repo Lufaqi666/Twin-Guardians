@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "heroes": [
+    {
+      "id": "commander",
+      "name": "霜卫统领",
+      "hp": 240,
+      "speed": 3,
+      "damage": 12,
+      "damage_type": "magic",
+      "interval": 1,
+      "range": 3,
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "color": "77b8df",
+      "role": "治疗与冰霜控制，靠近队友塔提供战术支援。",
+      "skill": {
+        "id": "frost_nova",
+        "name": "凛冬裁决",
+        "damage": 150,
+        "damage_type": "magic",
+        "radius": 2.8,
+        "cooldown": 16,
+        "windup": 0.3,
+        "description": "寒冰爆发造成范围伤害，冻结敌人并治疗附近英雄。"
+      },
+      "passive_name": "霜刃军令",
+      "passive_description": "每三次普攻附加冰霜；附近队友塔获增益。6级冰霜持续时间延长。",
+      "block_capacity": 1,
+      "talents": [
+        {
+          "id": "support",
+          "name": "协作专精",
+          "description": "技能范围提高25%，治疗附近盟友并给予护佑；直接伤害降低15%。"
+        },
+        {
+          "id": "assault",
+          "name": "突击专精",
+          "description": "技能伤害提高25%，范围缩小15%，冷却增加10%。"
+        }
+      ]
+    },
+    {
+      "id": "skirmisher",
+      "name": "炎刃游侠",
+      "hp": 180,
+      "speed": 4,
+      "damage": 18,
+      "damage_type": "physical",
+      "interval": 0.8,
+      "range": 1.2,
+      "targets": [
+        "ground"
+      ],
+      "color": "db975e",
+      "role": "机动近战，突进火线并引燃炼金油区。",
+      "skill": {
+        "id": "flame_rush",
+        "name": "烈焰破阵",
+        "damage": 190,
+        "damage_type": "magic",
+        "radius": 2.2,
+        "cooldown": 14,
+        "windup": 0.18,
+        "description": "向目标突进，释放炎刃冲击并点燃油区。"
+      },
+      "passive_name": "浴火战意",
+      "passive_description": "近战命中回复生命；每三击附加真实伤害。6级吸血比例提高。",
+      "block_capacity": 2,
+      "talents": [
+        {
+          "id": "support",
+          "name": "协作专精",
+          "description": "技能范围提高25%，治疗附近盟友并给予护佑；直接伤害降低15%。"
+        },
+        {
+          "id": "assault",
+          "name": "突击专精",
+          "description": "技能伤害提高25%，范围缩小15%，冷却增加10%。"
+        }
+      ]
+    },
+    {
+      "id": "sentinel",
+      "name": "磐石骑士",
+      "hp": 340,
+      "speed": 2.6,
+      "damage": 16,
+      "damage_type": "physical",
+      "interval": 1.1,
+      "range": 1.5,
+      "targets": [
+        "ground"
+      ],
+      "color": "bda46b",
+      "role": "坚韧前排，震地控制与战旗治疗。",
+      "skill": {
+        "id": "earthbreaker",
+        "name": "撼地审判",
+        "damage": 180,
+        "damage_type": "magic",
+        "radius": 2.5,
+        "cooldown": 18,
+        "windup": 0.35,
+        "description": "重锤震地，伤害并击退周围敌人，恢复自身生命。"
+      },
+      "passive_name": "钢铁誓约",
+      "passive_description": "常驻20%减伤，3级反伤；6级减伤40%且阻挡+1。5级可阻挡巨像。",
+      "block_capacity": 3,
+      "talents": [
+        {
+          "id": "support",
+          "name": "协作专精",
+          "description": "技能范围提高25%，治疗附近盟友并给予护佑；直接伤害降低15%。"
+        },
+        {
+          "id": "assault",
+          "name": "突击专精",
+          "description": "技能伤害提高25%，范围缩小15%，冷却增加10%。"
+        }
+      ]
+    },
+    {
+      "id": "ranger",
+      "name": "逐风猎手",
+      "hp": 180,
+      "speed": 4.2,
+      "damage": 17,
+      "damage_type": "physical",
+      "interval": 0.8,
+      "range": 4.5,
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "color": "8eb866",
+      "role": "远程对空，标记猎物并以箭雨压制。",
+      "skill": {
+        "id": "arrow_storm",
+        "name": "鹰隼箭雨",
+        "damage": 180,
+        "damage_type": "physical",
+        "radius": 2.5,
+        "cooldown": 14,
+        "windup": 0.25,
+        "description": "箭雨覆盖目标区域，对地对空并标记猎物。"
+      },
+      "passive_name": "猎鹰之眼",
+      "passive_description": "每三击必定强化为双倍伤害。6级普攻附加猎物标记。",
+      "block_capacity": 1,
+      "talents": [
+        {
+          "id": "support",
+          "name": "协作专精",
+          "description": "技能范围提高25%，治疗附近盟友并给予护佑；直接伤害降低15%。"
+        },
+        {
+          "id": "assault",
+          "name": "突击专精",
+          "description": "技能伤害提高25%，范围缩小15%，冷却增加10%。"
+        }
+      ]
+    },
+    {
+      "id": "pyromancer",
+      "name": "余烬法师",
+      "hp": 170,
+      "speed": 3.2,
+      "damage": 23,
+      "damage_type": "magic",
+      "interval": 1.2,
+      "range": 3.8,
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "color": "e58955",
+      "role": "火焰范围伤害，与炼金塔组成点燃连锁。",
+      "skill": {
+        "id": "meteor",
+        "name": "陨星焚城",
+        "damage": 240,
+        "damage_type": "magic",
+        "radius": 2.6,
+        "cooldown": 20,
+        "windup": 0.45,
+        "description": "陨石重击目标区域，留下持续火焰并点燃油区。"
+      },
+      "passive_name": "余烬蔓延",
+      "passive_description": "普攻附加灼烧并点燃油区；6级灼烧范围扩大。",
+      "block_capacity": 1,
+      "talents": [
+        {
+          "id": "support",
+          "name": "协作专精",
+          "description": "技能范围提高25%，治疗附近盟友并给予护佑；直接伤害降低15%。"
+        },
+        {
+          "id": "assault",
+          "name": "突击专精",
+          "description": "技能伤害提高25%，范围缩小15%，冷却增加10%。"
+        }
+      ]
+    },
+    {
+      "id": "stormcaller",
+      "name": "雷霆祭司",
+      "hp": 210,
+      "speed": 3.1,
+      "damage": 19,
+      "damage_type": "magic",
+      "interval": 1.0,
+      "range": 3.5,
+      "targets": [
+        "ground",
+        "air"
+      ],
+      "color": "b294df",
+      "role": "连锁闪电与风暴控制，支援双线作战。",
+      "skill": {
+        "id": "thunderstorm",
+        "name": "天罚雷暴",
+        "damage": 220,
+        "damage_type": "magic",
+        "radius": 3,
+        "cooldown": 16,
+        "windup": 0.3,
+        "description": "雷暴打击目标区域最多六个敌人，并短暂眩晕。"
+      },
+      "passive_name": "电荷共鸣",
+      "passive_description": "每三击弹射闪电至两个敌人。6级增加弹射目标并强化控制。",
+      "block_capacity": 1,
+      "talents": [
+        {
+          "id": "support",
+          "name": "协作专精",
+          "description": "技能范围提高25%，治疗附近盟友并给予护佑；直接伤害降低15%。"
+        },
+        {
+          "id": "assault",
+          "name": "突击专精",
+          "description": "技能伤害提高25%，范围缩小15%，冷却增加10%。"
+        }
+      ]
+    }
+  ],
+  "growth": {
+    "max_level": 8,
+    "xp_thresholds": [
+      0,
+      80,
+      200,
+      360,
+      560,
+      800,
+      1080,
+      1400
+    ],
+    "hp_per_level": 0.12,
+    "attack_per_level": 0.1,
+    "skill_damage_per_level": 0.08,
+    "skill_rank_multiplier": [
+      1,
+      1.35,
+      1.7
+    ],
+    "skill_points_levels": [
+      2,
+      4
+    ]
+  }
+}

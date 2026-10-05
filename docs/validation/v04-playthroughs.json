@@ -1,0 +1,151 @@
+{
+  "version": "0.4",
+  "date": "2026-10-04",
+  "method": "production commands and economy, no forced kills or gold, scripted strategy, not human playtest",
+  "runs": [
+    {
+      "level": "confluence_courtyard",
+      "mode": "fresh",
+      "phase": "won",
+      "hp": 20,
+      "combos": 25,
+      "battle_seconds": 346.2
+    },
+    {
+      "level": "confluence_courtyard",
+      "mode": "max-level",
+      "phase": "won",
+      "hp": 20,
+      "combos": 22,
+      "battle_seconds": 366.2
+    },
+    {
+      "level": "confluence_courtyard",
+      "mode": "challenge",
+      "phase": "won",
+      "hp": 20,
+      "combos": 26,
+      "battle_seconds": 353.9
+    },
+    {
+      "level": "frost_pass",
+      "mode": "fresh",
+      "phase": "won",
+      "hp": 20,
+      "combos": 26,
+      "battle_seconds": 369.0
+    },
+    {
+      "level": "frost_pass",
+      "mode": "max-level",
+      "phase": "won",
+      "hp": 20,
+      "combos": 22,
+      "battle_seconds": 386.3
+    },
+    {
+      "level": "frost_pass",
+      "mode": "challenge",
+      "phase": "won",
+      "hp": 20,
+      "combos": 28,
+      "battle_seconds": 368.6
+    },
+    {
+      "level": "ember_ruins",
+      "mode": "fresh",
+      "phase": "won",
+      "hp": 20,
+      "combos": 30,
+      "battle_seconds": 362.3
+    },
+    {
+      "level": "ember_ruins",
+      "mode": "max-level",
+      "phase": "won",
+      "hp": 20,
+      "combos": 18,
+      "battle_seconds": 335.7
+    },
+    {
+      "level": "ember_ruins",
+      "mode": "challenge",
+      "phase": "won",
+      "hp": 20,
+      "combos": 29,
+      "battle_seconds": 374.8
+    },
+    {
+      "level": "thornwood",
+      "mode": "fresh",
+      "phase": "won",
+      "hp": 20,
+      "combos": 33,
+      "battle_seconds": 461.1
+    },
+    {
+      "level": "thornwood",
+      "mode": "max-level",
+      "phase": "won",
+      "hp": 18,
+      "combos": 35,
+      "battle_seconds": 430.4
+    },
+    {
+      "level": "thornwood",
+      "mode": "challenge",
+      "phase": "won",
+      "hp": 20,
+      "combos": 37,
+      "battle_seconds": 455.9
+    },
+    {
+      "level": "skywatch",
+      "mode": "fresh",
+      "phase": "won",
+      "hp": 19,
+      "combos": 28,
+      "battle_seconds": 459.8
+    },
+    {
+      "level": "skywatch",
+      "mode": "max-level",
+      "phase": "won",
+      "hp": 19,
+      "combos": 28,
+      "battle_seconds": 458.4
+    },
+    {
+      "level": "skywatch",
+      "mode": "challenge",
+      "phase": "won",
+      "hp": 19,
+      "combos": 28,
+      "battle_seconds": 462.1
+    },
+    {
+      "level": "rift_citadel",
+      "mode": "fresh",
+      "phase": "won",
+      "hp": 20,
+      "combos": 46,
+      "battle_seconds": 620.1
+    },
+    {
+      "level": "rift_citadel",
+      "mode": "max-level",
+      "phase": "won",
+      "hp": 20,
+      "combos": 38,
+      "battle_seconds": 616.4
+    },
+    {
+      "level": "rift_citadel",
+      "mode": "challenge",
+      "phase": "won",
+      "hp": 20,
+      "combos": 54,
+      "battle_seconds": 631.7
+    }
+  ]
+}
